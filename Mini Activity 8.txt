@@ -1,0 +1,37 @@
+1.
+If I am hungry then:
+I will eat
+Else:
+I will not eat
+
+
+2. 
+If I get an A+ then:
+I will celebrate with my parents
+Else:
+I will tell my parents my grade
+
+3.
+If I get any grade average then:
+I will not be attending college/university
+
+4.
+If it is my birthday then:
+I will celebrate
+Else if it is my brothers birthday then:
+I will celebrate
+Else if it is my mothers birthday then:
+I will celebrate
+Otherwise:
+I will not celebrate
+
+5.
+If I win a 649 lottery then:
+I will be responsible with the winnings while working less
+Else:
+I will continue working lots
+
+If I pass the driving test then:
+I will begin looking into purchasing a vehicle
+Else:
+I will redo the test
